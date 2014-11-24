@@ -22,3 +22,9 @@ vectorise all the things later. Maybe.
          x         y
 1 51.51257 -0.134864
 ```
+
+Installation: use `devtools`. That's all your getting at the moment, this is wizard-only
+territory at the moment.
+
+Here's the [patent](http://www.ipo.gov.uk/p-ipsum/Case/PublicationNumber/GB2513196).
+
