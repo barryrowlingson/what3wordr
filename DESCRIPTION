@@ -1,0 +1,17 @@
+Package: what3wordr
+Title: Access the What3Words API
+Version: 0.1
+Authors@R: "Barry Rowlingson <b.rowlingson@gmail.com> [aut, cre]"
+Description: The What3Words API encodes location with three
+    words. Encoding in the opposite direction is also
+    implemented, from three words to location. Full
+    details on http://what3words.com where you will also
+    have to get an API key. Note that this encoding is
+    proprietary, and a patent has been applied for. You
+    will be at the mercy of the company if you choose
+    to use this for anything serious.
+Depends:
+    R (>= 3.0.2),
+    httr
+License: GPL-3
+LazyData: true
