@@ -28,3 +28,24 @@ territory at the moment.
 
 Here's the [patent](http://www.ipo.gov.uk/p-ipsum/Case/PublicationNumber/GB2513196).
 
+Personal Thoughts
+=================
+
+This is a lovely idea, sadly proprietary which makes widespread adoption in some circles
+difficult. An open scheme for this sort of encoding, freely available, would be amazing
+but probably impossible due to the patent process.
+
+The company are also pushing their "1word" thing as an income generator. This lets you buy
+a single word for your location. Again, they would be a sole provider of this service,
+with total control. But something like this service already exists...
+
+IP names can be bought and sold by many providers, so there is a
+market, and if one registrar goes belly up you move your IP name
+registration elsewhere. And IP names can not only have IP numbers
+assigned, they can have locations, via DNS LOC records. So I could easily take my
+`barry.rowlingson.com` IP name and add location metadata to the DNS
+entry for it. Instead of buying a 1word from what3words, my location
+could be taken from that. I'm then free to update my location.
+
+Note this doesn't affect the what3words system, which is essentially a 
+coordinate reference system over the whole globe.
