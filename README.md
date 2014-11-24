@@ -4,7 +4,8 @@ what3wordr
 An interface to the [What3Words API](www.what3words.com).
 
 Currently very alpha. Only deals with 3words, onewords, and positions, the API
-can do some other things and return other stuff. TBD.
+can do some other things and return other stuff. And only does one at a time. Will
+vectorise all the things later. Maybe.
 
 ```
 > require(what3wordr)
