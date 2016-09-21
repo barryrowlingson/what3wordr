@@ -1,11 +1,9 @@
 what3wordr
 ===========
 
-An interface to the [What3Words API](www.what3words.com).
+An old interface to the [What3Words API](www.what3words.com).
 
-Currently very alpha. Only deals with 3words, onewords, and positions, the API
-can do some other things and return other stuff. And only does one at a time. Will
-vectorise all the things later. Maybe.
+Probably obsolete now as w3w have done some major changes. You might want to try Richard Cotton's package instead: https://bitbucket.org/richierocks/w3wr
 
 ```
 > require(what3wordr)
